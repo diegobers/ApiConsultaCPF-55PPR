@@ -1,3 +1,5 @@
 from django.contrib import admin
+from .models import CommonMercosulNomenclature, ArquivoJSON
 
-# Register your models here.
+admin.site.register(CommonMercosulNomenclature)
+admin.site.register(ArquivoJSON)
