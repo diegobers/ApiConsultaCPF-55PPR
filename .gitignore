@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-main/__pycache__/
-
-api/__pycache__/
-
-.idea/
-
-__pycache__/
-
-*.sqlite3
-=======
-=======
->>>>>>> main
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -168,7 +153,3 @@ cython_debug/
 #.idea/
 
 .vscode/
-<<<<<<< HEAD
->>>>>>> main
-=======
->>>>>>> main
